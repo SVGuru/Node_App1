@@ -1,0 +1,20 @@
+{
+  "name": "Ecommerce-Exercise12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [
+    "first",
+    "test",
+    "code"
+  ],
+  "author": "PC",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
